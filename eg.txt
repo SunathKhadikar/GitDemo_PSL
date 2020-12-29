@@ -2,4 +2,8 @@ hello git
 - modify 1
 adding new line of code for bug1
 
+
 doong this for bug2 modify in msater branch
+
+new new bug2
+
