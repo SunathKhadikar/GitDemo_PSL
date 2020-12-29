@@ -1,3 +1,4 @@
 hello git
 - modify 1
 adding new line of code for bug1
+new new bug2
